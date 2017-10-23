@@ -4,4 +4,9 @@ django is a model view controller. urls.py is the controller
 admin.site is its own app
 jinja is python templating framework like html	 
 {% %} jinja logic
-{{var}} jinja variable
+{{var}} jinja variables
+bootstrap provides style sheets (css) for frontend development.
+Content Delivery Network (CDN) helps websites load faster.
+django merges templates and static files for all apps.
+Hence better to store these files under personal/static/personal/file to avoid conflicts for same names.
+
