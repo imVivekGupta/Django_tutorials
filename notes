@@ -1,0 +1,7 @@
+website is a combination of apps.
+python manage.py startapp <name_of_app>
+django is a model view controller. urls.py is the controller
+admin.site is its own app
+jinja is python templating framework like html	 
+{% %} jinja logic
+{{var}} jinja variable
